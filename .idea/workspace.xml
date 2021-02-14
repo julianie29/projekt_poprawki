@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10063210-448c-40fd-a1e4-d69b95ceabca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1oDBEJZIHvInKqCL1bTWZsBWpMF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10063210-448c-40fd-a1e4-d69b95ceabca" name="Default Changelist" comment="" />
+      <created>1612811167470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612811167470</updated>
+      <workItem from="1612811168590" duration="764000" />
+      <workItem from="1612812052141" duration="3907000" />
+      <workItem from="1612892362920" duration="30862000" />
+      <workItem from="1613235186647" duration="207000" />
+      <workItem from="1613235573182" duration="21647000" />
+      <workItem from="1613296387995" duration="294000" />
+      <workItem from="1613296873696" duration="1000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1613297162591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613297162591" />
+    <state x="593" y="314" key="Github.CreateGistDialog" timestamp="1613295444521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="314" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1613295444521" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1613296081847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1613296081847" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1613224325797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1613224325797" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1613297187659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613297187659" />
+    <state x="368" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613241803901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1613241803901" />
+    <state x="478" y="145" width="579" height="624" key="find.popup" timestamp="1613294398639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="624" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1613294398639" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613297874076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613297874076" />
+  </component>
+</project>

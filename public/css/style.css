@@ -1,0 +1,84 @@
+.messages { }
+.messages ul { list-style-type: none; padding: 0; }
+.msg{
+    border-radius: 0.5em;
+    padding: 1em;
+    margin-bottom: 0.5em;
+    box-shadow: 0.2em 0.2em 0.4em #ccc;
+}
+.error{	background-color: lightcoral; }
+.warning{ background-color: lightyellow; }
+.info{ background-color: lightgreen; }
+
+.bottom-margin{
+    margin-bottom: 1em;
+}
+
+.top-margin{
+    margin-top: 1em;
+}
+
+.left-margin{
+    margin-left: 10px;
+}
+
+.margin{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.right-margin{
+    margin-right: 180px;
+    margin-bottom: 20px;
+}
+
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-warning {
+    background: crimson;
+}
+
+.button-secondary {
+    background: limegreen;
+}
+
+.button-xsmall {
+    font-size: 70%;
+}
+
+.button-small {
+    font-size: 85%;
+}
+
+.button-large {
+    font-size: 110%;
+}
+
+.button-xlarge {
+    font-size: 125%;
+}
+
+.pure-menu-horizontal {
+    background-color: black;
+    lighting-color: darkgrey;
+}
+
+.pure-menu-link{
+    color: white;
+}
+
