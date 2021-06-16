@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2021-02-13 23:34:27
-  from "C:\xampp\htdocs\sklep\app\views\ProductList.tpl" */
+/* Smarty version 3.1.30, created on 2021-06-09 07:47:28
+  from "C:\xampp\htdocs\sklep\app\views\ProductListFullPage.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_602853f3f2bbb1_27178634',
+  'unifunc' => 'content_60c055f035ca82_13211517',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '80bbd84c6922e0ede3c766422f66d4c7de98b5af' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\sklep\\app\\views\\ProductList.tpl',
-      1 => 1613254245,
+      0 => 'C:\\xampp\\htdocs\\sklep\\app\\views\\ProductListFullPage.tpl',
+      1 => 1623217631,
       2 => 'file',
     ),
   ),
@@ -21,26 +21,26 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:main.tpl' => 1,
   ),
 ),false)) {
-function content_602853f3f2bbb1_27178634 (Smarty_Internal_Template $_smarty_tpl) {
+function content_60c055f035ca82_13211517 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2049557375602853f3f1c1d4_13142450', 'top');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_102039242060c055f0342c97_18714076', 'top');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_254136771602853f3f2b503_77430220', 'bottom');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_46890685560c055f035c208_84789952', 'bottom');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild();
 $_smarty_tpl->_subTemplateRender("file:main.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 2, false);
 }
 /* {block 'top'} */
-class Block_2049557375602853f3f1c1d4_13142450 extends Smarty_Internal_Block
+class Block_102039242060c055f0342c97_18714076 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>
@@ -72,7 +72,7 @@ personList">
 }
 /* {/block 'top'} */
 /* {block 'bottom'} */
-class Block_254136771602853f3f2b503_77430220 extends Smarty_Internal_Block
+class Block_46890685560c055f035c208_84789952 extends Smarty_Internal_Block
 {
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 ?>

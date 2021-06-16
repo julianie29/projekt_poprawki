@@ -14,6 +14,11 @@ class RoleUtils {
         $_SESSION['_amelia_roles'] = serialize(App::getConf()->roles);
     }
 
+    public static function addUser($login, $role) {
+        $_SESSION['_amelia_login'] = $login;
+        $_SESSION['_amelia_role'] = $role;
+    }
+
     public static function removeRole($role) {
         if (isset(App::getConf()->roles [$role])) {
             unset(App::getConf()->roles [$role]);

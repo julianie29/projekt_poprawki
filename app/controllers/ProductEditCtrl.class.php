@@ -33,6 +33,11 @@ class ProductEditCtrl {
         if (empty(trim($this->form->code))) {
             Utils::addErrorMessage('Wprowadź kod produktu');
         }
+
+        if (!is_numeric($this->form->code)){
+            Utils::addErrorMessage('Kod produktu musi być liczbą');
+        }
+
         if (empty(trim($this->form->name))) {
             Utils::addErrorMessage('Wprowadź nazwę produktu');
         }
@@ -147,7 +152,6 @@ class ProductEditCtrl {
     public function action_productSave() {
 
         if ($this->validateSave()) {
-
             try {
 
                 if ($this->form->id == '') {

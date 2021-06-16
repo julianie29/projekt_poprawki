@@ -125,7 +125,6 @@ class ProducerEditCtrl {
 
     public function generateView() {
         App::getSmarty()->assign('form', $this->form);
-        App::getSmarty()->assign('producer', $this->producers);
         App::getSmarty()->display('ProducerEdit.tpl');
     }
 

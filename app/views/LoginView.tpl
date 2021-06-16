@@ -14,6 +14,7 @@
 		</div>
 		<div class="pure-controls">
 			<input type="submit" value="Zaloguj" class="pure-button pure-button-primary"/>
+			<a class="pure-button" href="{$conf->action_root}newUser">Nowy użytkownik</a>
 		</div>
 	</fieldset>
 </form>	

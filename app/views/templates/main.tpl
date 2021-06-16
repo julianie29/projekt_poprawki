@@ -8,6 +8,7 @@
           integrity="sha384-LTIDeidl25h2dPxrB2Ekgc9c7sEC3CWGM6HeFmuDNUjX76Ert4Z4IY714dhZHPLd" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{$conf->app_url}/css/style.css">
+    <script type="text/javascript" src="{$conf->app_url}/js/functions.js"></script>
 </head>
 
 <body style="margin: 0px;">
@@ -15,6 +16,7 @@
 <div class="pure-menu pure-menu-horizontal bottom-margin">
     {if count($conf->roles)>0}
         <a href="{$conf->action_root}logout" class="pure-menu-heading pure-menu-link">Wyloguj</a>
+        <a href="{$conf->action_root}userDelete" class="pure-menu-heading pure-menu-link">Usuń konto</a>
     {else}
         <a href="{$conf->action_root}login" class="pure-menu-heading pure-menu-link">Zaloguj</a>
     {/if}
@@ -41,7 +43,12 @@
 
 {/block}
 
-{block name=bottom} {/block}
+{block name=bottom}{/block}
+
+
+
+{block name=footer}{/block}
+
 
 </body>
 
