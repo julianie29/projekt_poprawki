@@ -65,7 +65,10 @@ class ProductListCtrl {
                 ]
             ];
 
-            $this->form->count_items = App::getDB()->count("product", [
+            $this->form->count_items = App::getDB()->count("product",
+                [
+                    "[>]producer" => ["id_producer" => "id"]
+                ],[
                 "product.id"
             ], $where);
 

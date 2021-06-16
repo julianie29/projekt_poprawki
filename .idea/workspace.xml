@@ -11,35 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10063210-448c-40fd-a1e4-d69b95ceabca" name="Default Changelist" comment="Dodanie ajax, stornicowania oraz inne poprawki">
-      <change afterPath="$PROJECT_DIR$/app/views/AddUserView.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/ProducerListTable.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/ProductListTable.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/021c300093e90cc29f589accbbd0b1046e672305_0.file.AddUserView.tpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/2087c0e1d46d4eb61bdff095822d22e5421f481b_0.file.Messages.tpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/480cefcd8ee9fccc6d71c512d8335e93f32da7ed_0.file.ProducerListTable.tpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/7568f537a0c79476da2cee363622bab2e3f4c54b_0.file.ProductListFullPage.tpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/b7b11e3faa645df053421bf04b1ff5b07d74705c_0.file.ProducerListFullPage.tpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates_c/d7a6afe7528d38287d292dc6230c260e9c1e1372_0.file.ProductListTable.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/LoginCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/LoginCtrl.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/ProducerEditCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProducerEditCtrl.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/ProducerListCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProducerListCtrl.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/ProductEditCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductEditCtrl.class.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/ProductListCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductListCtrl.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/forms/LoginForm.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms/LoginForm.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/forms/ProductSearchForm.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms/SearchForm.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/LoginView.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/LoginView.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/ProducerList.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/ProducerListFullPage.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/ProductList.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/ProductListFullPage.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/templates/main.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/templates/main.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/RoleUtils.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/RoleUtils.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates_c/80bbd84c6922e0ede3c766422f66d4c7de98b5af_0.file.ProductList.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates_c/80bbd84c6922e0ede3c766422f66d4c7de98b5af_0.file.ProductList.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates_c/853305b44ee24433600ca75219caa4e03be84c9a_0.file.main.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates_c/853305b44ee24433600ca75219caa4e03be84c9a_0.file.main.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates_c/a58943add4e0591b0b28882fbae1fea716fb990c_0.file.LoginView.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates_c/a58943add4e0591b0b28882fbae1fea716fb990c_0.file.LoginView.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates_c/c4ab6baeb7c199c8e228843d9718d2d2a0cd1441_0.file.ProducerList.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates_c/c4ab6baeb7c199c8e228843d9718d2d2a0cd1441_0.file.ProducerList.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing.php" beforeDir="false" afterPath="$PROJECT_DIR$/routing.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +75,9 @@
       <workItem from="1622834834911" duration="759000" />
       <workItem from="1623176999954" duration="1335000" />
       <workItem from="1623354524691" duration="66000" />
-      <workItem from="1623354748694" duration="21903000" />
+      <workItem from="1623354748694" duration="22218000" />
+      <workItem from="1623848805676" duration="3000" />
+      <workItem from="1623848926468" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1613298031725</created>
@@ -111,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613298031725</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dodanie ajax, stornicowania oraz inne poprawki">
+      <created>1623848673758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623848673758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
